@@ -46,7 +46,6 @@ I enjoy building solutions that:
 ---
 
 ## ⚙️My core expertise
- 
 | | | |
 |---|---|---|
 | 🏛️ Cross-organizational program leadership & governance | 📢 Content strategy & distribution | 🌐 Digital experience optimization |
