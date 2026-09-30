@@ -2,63 +2,56 @@
 
 # 👋 Hi, I'm Rae Lyon
 
-### Technology Leader • School Board Member • Builder • Lifelong Learner
+### I help people and organizations navigate complexity through AI, learning, and human-centered design.
 
 <p>
-I enjoy solving complex problems with technology, empowering people through education,
-and finding practical ways to use AI to make life and work better.
+My career has spanned public health, philanthropy, partnerships, developer relations, learning experiences, AI, and program leadership. Across every role, the common thread has been helping people move from uncertainty to understanding and from ideas to meaningful outcomes.
+ 
+Today, I'm exploring how AI, agents, developer tools, and knowledge systems can help people learn, work, and solve problems more effectively.
 </p>
-
 
 </div>
 
 ---
 
-## 🌄 About me
+## What I'm interested in
 
-Based in Colorado, I have many sides:
-
-🏢 Technology professional focused on modern software, cloud platforms, and AI
-
-🎓 School board member passionate about improving educational outcomes
-
-🤖 Enthusiast for practical AI, automation, and developer productivity
-
-🌱 Lifelong learner who enjoys exploring new technologies
-
-🏔️ Colorado adventurer who values community, family, and the outdoors
+- 🤖 AI agents and agent experiences
+- 🪄 Copilot and human-AI collaboration
+- 📚 Learning and knowledge systems
+- 👩‍💻 Developer skilling and community
+- 🎯 Customer experience strategy
+- 🌱 Organizational change and adoption
+- 🗺️ Information architecture and content discovery
+- 🧩 Systems thinking and complex problem-solving
 
 
 ---
 
-## 🎯 What drives me
+## My Approach
+ 
+I believe the best technology experiences help people:
+ 
+- Learn faster
+- Make better decisions
+- Discover what's relevant
+- Navigate complexity with confidence
+ 
+> Most of my work is driven by a simple question: How can we make it easier for people to understand, learn, and act?
 
-> Technology is most meaningful when it helps people thrive.
-
-I enjoy building solutions that:
-
-- Improve productivity
-- Simplify complex processes
-- Support learning and growth
-- Enable better decision-making
-- Create positive community impact
-
----
-
-## ⚙️My core expertise
-| | | |
-|---|---|---|
-| 🏛️ Cross-organizational program leadership & governance | 📢 Content strategy & distribution | 🌐 Digital experience optimization |
-| 🤖 AI & digital learning strategy | 📈 Performance measurement & optimization | 🤝 Stakeholder & executive alignment |
-| 📝 Executive insights & communications | 🎪 Event strategy & customer continuity | ⚡ AI-enabled workflows & experimentation |
-
----
-
-
+--- 
+## Currently Exploring
+- Agent-driven customer experiences
+- AI-powered knowledge discovery
+- MCP implementations
+- Human-centered AI adoption
+- GitHub as a learning platform
  
 <div align="center">
 
-  ## 🤝 Let's connect
+## 🤝 Let's connect
+If you're interested in AI, learning, customer experience, developer communities, or helping people make sense of complex systems, I'd love to connect and learn from what you're building.
+
 <a href="https://www.linkedin.com/in/rae-lyon-6358174">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
